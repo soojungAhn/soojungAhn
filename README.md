@@ -1,4 +1,7 @@
-### The only thing worse than starting something and failing is not starting something.
+# Hey! Nice to see you.
+
+### Welcome to my page! 😄
+### I'm Soojung, Studying coding from S.Korea 
 
 <!--
 **soojungAhn/soojungAhn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
